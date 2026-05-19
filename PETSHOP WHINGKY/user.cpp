@@ -4,11 +4,10 @@
 //              proses pembelian, struk, dan riwayat
 
 #include "toko.h"
-#include <fstream>  // Tambahan buat nulis file HTML (ofstream)
+#include <fstream>  //Tambahan buat nulis file HTML (ofstream)
 
 
 //  FITUR: Generate file HTML berisi QR Code lalu buka di browser
-//
 //  Cara kerjanya:
 //    1. Bikin file "qr_pembayaran.html" di folder yang sama sama .exe
 //    2. Di dalem HTML itu kita pake library qrcode.js (dari CDN, butuh internet)

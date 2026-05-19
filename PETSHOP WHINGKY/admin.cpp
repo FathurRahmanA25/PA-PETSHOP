@@ -1,7 +1,7 @@
 #include "toko.h"
 
 
-//  FITUR: Tampilkan Tabel User
+//  Fitur: Tampilkan Tabel User
 static void tampilkanTabelUser() {
     const int W_UID   = 4;
     const int W_UNAME = 20;

@@ -1,7 +1,7 @@
 //   SISTEM MANAJEMEN TOKO PERLENGKAPAN HEWAN "WHINGKY"
 //   File     : main.cpp
-//   Deskripsi: Entry point -- variabel global, utilitas,
-//              pencarian, pengurutan, tampilan, inisialisasi
+//   Deskripsi: - Entry point -- variabel global, utilitas,
+//              - pencarian, pengurutan, tampilan, inisialisasi
 
 #include "toko.h"
 #include <cstdio>

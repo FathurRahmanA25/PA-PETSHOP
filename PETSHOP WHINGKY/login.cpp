@@ -3,7 +3,7 @@
 
 //  FITUR: Menu Utama
 void menuUtama() {
-    // Animasi sambutan saat pertama kali buka
+    // animasi sambutan saat pertama kali buka
     cout << "\n\n";
     animasiKetik(BCYAN "  Memuat sistem Toko Whingky..." RESET "\n", 25);
     animasiLoading("Inisialisasi data", 4);
